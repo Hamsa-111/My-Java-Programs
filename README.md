@@ -4,8 +4,8 @@
 
 Code: ArrayListLinkedListOperations.java
 
-Output 1:
-[Click here to view output 1](ArrayListLinkedListOperationsOutput1.png)
+Output :
+[Click here to view output ](ArrayListLinkedListOperationsOutput1.png)
 
-Output 2:
-[Click here to view output 2](ArrayListLinkedListOperationsOutput2.png)
+Output :
+[Click here to view output ](ArrayListLinkedListOperationsOutput2.png)
