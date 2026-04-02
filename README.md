@@ -18,3 +18,10 @@ Code: ArrayList Program1(ColorSearch).java
 Output:
 [Click here to view output ](ColorSearchOutput.png)
 
+Code: ArrayList Program2(RemoveColors).java
+
+
+Output:
+[Click here to view output ](RemoveColorsOutput.png)
+
+
