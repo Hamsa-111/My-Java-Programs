@@ -1,6 +1,6 @@
 # My-Java-Programs
 
-## Program 1: ArrayList and LinkedList Operations
+## Program 1a: ArrayList and LinkedList Operations
 
 Code: ArrayListLinkedListOperations.java
 
@@ -11,7 +11,7 @@ Output :
 [Click here to view output ](ArrayListLinkedListOperationsOutput2.png)
 
 
-## Program 2: ArrayList Programs
+## Program 1b: ArrayList Programs
 
 Code: ArrayList Program1(ColorSearch).java
 
