@@ -93,6 +93,28 @@ Output:
 
 
 
+## Program 2a:String Handling 
+
+
+Code: StringHandlingDemo.java
+
+
+Output:
+[Click here to view output ](StringHandlingOutput1.png)
+
+
+Output:
+[Click here to view output ](StringHandlingOutput2.png)
+
+
+
+
+
+
+
+
+
+
 
 
 
