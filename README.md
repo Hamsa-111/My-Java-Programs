@@ -11,7 +11,7 @@ Output :
 [Click here to view output ](ArrayListLinkedListOperationsOutput2.png)
 
 
-##Program 2:ArrayList Programs
+## Program 2: ArrayList Programs
 
 Code: ArrayList Program1(ClorSearch).java
 
