@@ -32,6 +32,24 @@ Output:
 [Click here to view output ](SortColorsOutput.png)
 
 
+Code: ArrayList Program4(SubListDemo).java
+
+
+Output:
+[Click here to view output ](SubListOutput.png)
+
+
+
+Code: ArrayList Program5(RemoveDemo).java
+
+
+Output:
+[Click here to view output ](RemoveDemoOutput.png)
+
+
+
+
+
 
 
 
