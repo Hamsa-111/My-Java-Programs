@@ -13,7 +13,7 @@ Output :
 
 ## Program 2: ArrayList Programs
 
-Code: ArrayList Program1(ClorSearch).java
+Code: ArrayList Program1(ColorSearch).java
 
 Output:
 [Click here to view output ](ColorSearchOutput.png)
