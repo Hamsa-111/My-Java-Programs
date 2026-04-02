@@ -76,6 +76,15 @@ Output:
 
 
 
+Code: LinkedList Program4(PositionDemo).java
+
+
+Output:
+[Click here to view output ](PositionOutput.png)
+
+
+
+
 
 
 
