@@ -44,7 +44,7 @@ Code: ArrayList Program5(RemoveDemo).java
 
 
 Output:
-[Click here to view output ](RemoveDemoOutput.png)
+[Click here to view output ](RemoveOutput.png)
 
 
 
