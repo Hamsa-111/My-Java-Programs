@@ -15,6 +15,6 @@ Output :
 
 Code: ArrayList Program1(ClorSearch).java
 
-OutPut:
+Output:
 [Click here to view output ](ColorSearchOutput.png)
 
