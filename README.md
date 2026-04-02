@@ -60,6 +60,16 @@ Output:
 
 
 
+Code: LinkedList Program2(ReverseDemo).java
+
+
+Output:
+[Click here to view output ](ReverseOutput.png)
+
+
+
+
+
 
 
 
