@@ -93,7 +93,7 @@ Output:
 
 
 
-## Program 2a:String Handling 
+## Program 2a: String Handling 
 
 
 Code: StringHandlingDemo.java
