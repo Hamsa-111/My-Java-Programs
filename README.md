@@ -85,6 +85,14 @@ Output:
 
 
 
+Code: LinkedList Program5(SwapDemo).java
+
+
+Output:
+[Click here to view output ](SwapOutput.png)
+
+
+
 
 
 
