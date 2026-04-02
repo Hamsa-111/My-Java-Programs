@@ -25,3 +25,13 @@ Output:
 [Click here to view output ](RemoveColorsOutput.png)
 
 
+Code: ArrayList Program3(SortColors).java
+
+
+Output:
+[Click here to view output ](SortColorsOutput.png)
+
+
+
+
+
