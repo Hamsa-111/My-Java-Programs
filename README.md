@@ -322,7 +322,7 @@ Code: CookieManagement.java
 
 
 Output:
-[Click here to view output ](PrimeOutput.jpeg)
+[Click here to view output ](CookieManagementOutput.jpeg)
 
 
 
@@ -334,7 +334,7 @@ Code: Servlet4(CookieServlet).java
 
 
 Output:
-[Click here to view output ](CookieManagementOutput.jpeg)
+[Click here to view output ](CookieOutput.jpeg)
 
 
 
