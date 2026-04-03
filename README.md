@@ -199,6 +199,14 @@ Output:
 [Click here to view output ](RandomStringOutput.png)
 
 
+Code: String Program10(WordCountDemo).java
+
+
+Output:
+[Click here to view output ](WordCountOutput.png)
+
+
+
 
 
 
