@@ -3,7 +3,7 @@
 
 
 
-Servlet(FactorialSevlet)
+//Servlet(FactorialSevlet)
 
 package com.factorial;
 
@@ -106,7 +106,7 @@ public class FactorialServlet extends HttpServlet {
 
 
 
-HTML FILE (index.html)
+//HTML FILE (index.html)
 
 
 <!DOCTYPE html>
