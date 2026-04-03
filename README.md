@@ -315,6 +315,18 @@ Output:
 
 
 
+## Program 7a: Cookie1 Servlet
+
+
+Code: Servlet4(CookieServlet).java
+
+
+Output:
+[Click here to view output ](Cookie1Output.jpeg)
+
+
+
+
 
 
 
