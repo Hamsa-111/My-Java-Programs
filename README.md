@@ -183,6 +183,16 @@ Output:
 
 
 
+Code: String Program8(NumericCheckDemo).java
+
+
+Output:
+[Click here to view output ](NumericCheckOutput.png)
+
+
+
+
+
 
 
 
