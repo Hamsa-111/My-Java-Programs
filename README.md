@@ -344,7 +344,7 @@ Code: Servlet6(SessionTrackingServlet).java
 
 
 Output:
-[Click here to view output ](SessionTrackingOutput.jpeg)
+[Click here to view output ](SessionTrackingOutput.png)
 
 
 
