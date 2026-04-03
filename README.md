@@ -296,11 +296,23 @@ Output:
 ## Program 6b: Factorial Servlet
 
 
-Code: Servlet1(FactorialServlet).java
+Code: Servlet2(FactorialServlet).java
 
 
 Output:
 [Click here to view output ](FactorialOutput.jpeg)
+
+
+
+## Program 6c: Prime Servlet
+
+
+Code: Servlet3(PrimeServlet).java
+
+
+Output:
+[Click here to view output ](PrimeOutput.jpeg)
+
 
 
 
