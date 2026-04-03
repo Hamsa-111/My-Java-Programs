@@ -368,6 +368,18 @@ Output:
 
 
 
+## Program 10a: User Data Servlet
+
+
+Code: UserDataServlet.java
+
+
+Output:
+[Click here to view output ](UserDataServletOutput.jpeg)
+
+
+
+
 
 
 
