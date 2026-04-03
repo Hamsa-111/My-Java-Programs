@@ -155,6 +155,15 @@ Output:
 
 
 
+Code: String Program5(WhitespaceRemoveDemo).java
+
+
+Output:
+[Click here to view output ](WhitespaceRemoveOutput.png)
+
+
+
+
 
 
 
