@@ -1,7 +1,7 @@
 /*6c. Build a servlet program to check the given number is prime number or not using HTML with step by step procedure.*/
 
 
-Servlet(PrimeServlet)
+//Servlet(PrimeServlet)
 
 package com.prime;
 import java.io.IOException;
@@ -54,7 +54,7 @@ public class PrimeServlet extends HttpServlet {
 
 
 
-HTML FILE(inde.html)
+//HTML FILE(inde.html)
 
 <!DOCTYPE html>
 <html>
