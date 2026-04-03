@@ -379,6 +379,20 @@ Output:
 
 
 
+## Program 10b:Result Servlet
+
+
+Code: ResultServlet.java
+
+
+Output:
+[Click here to view output ](ResultServletOutput.jpeg)
+
+
+
+
+
+
 
 
 
