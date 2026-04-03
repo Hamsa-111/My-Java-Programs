@@ -209,11 +209,23 @@ Output:
 ## Program 4a: Swing Example
 
 
-Code: String Program1(SwingExampleDemo).java
+Code: SwingExampleDemo.java
 
 
 Output:
 [Click here to view output ](SwingExampleOutput.png)
+
+
+
+## Program 4b: Button Example
+
+
+Code: ButtonExampleDemo.java
+
+
+Output:
+[Click here to view output ](ButtonExampleOutput.png)
+
 
 
 
