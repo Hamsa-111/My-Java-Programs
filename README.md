@@ -293,6 +293,18 @@ Output:
 [Click here to view output ](HelloWorldOutput.png)
 
 
+## Program 6b: Factorial Servlet
+
+
+Code: Servlet1(FactorialServlet).java
+
+
+Output:
+[Click here to view output ](FactorialOutput.jpeg)
+
+
+
+
 
 
 
