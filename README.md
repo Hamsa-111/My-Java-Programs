@@ -283,6 +283,14 @@ Output:
 
 
 
+## Program 6a: Hello World on Servlet
+
+
+Code: Servlet1(HelloWorld).java
+
+
+Output:
+[Click here to view output ](HelloWorldOutput.png)
 
 
 
