@@ -257,7 +257,7 @@ Code: TabbedPaneExample.java
 
 
 Output:
-[Click here to view output ](TabbedPaneOutput.jpeg)
+[Click here to view output ](TabbedPaneOutput.png)
 
 
 
