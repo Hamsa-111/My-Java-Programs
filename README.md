@@ -347,6 +347,17 @@ Output:
 [Click here to view output ](SessionTrackingOutput.png)
 
 
+## Program 9b: Session Management
+
+
+Code: Servlet6(SessionManagement).java
+
+
+Output:
+[Click here to view output ](SessionManagementOutput.png)
+
+
+
 
 
 
