@@ -315,7 +315,7 @@ Output:
 
 
 
-## Program 7a: Cookie1 Servlet
+## Program 8a: Cookie1 Servlet
 
 
 Code: Servlet4(CookieServlet).java
@@ -326,7 +326,7 @@ Output:
 
 
 
-## Program 7a: Cookie2 Servlet
+## Program 8b: Cookie2 Servlet
 
 
 Code: Servlet5(CookieServlet).java
