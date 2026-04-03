@@ -228,6 +228,18 @@ Output:
 
 
 
+## Program 4c: Image Button Example
+
+
+Code: ImageButtonExampleDemo.java
+
+
+Output:
+[Click here to view output ](ImageButtonExampleOutput.png)
+
+
+
+
 
 
 
