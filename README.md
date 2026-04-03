@@ -315,6 +315,18 @@ Output:
 
 
 
+## Program 7b: Cookie Management
+
+
+Code: CookieManagement.java
+
+
+Output:
+[Click here to view output ](PrimeOutput.jpeg)
+
+
+
+
 ## Program 8a: Cookie1 Servlet
 
 
@@ -322,7 +334,7 @@ Code: Servlet4(CookieServlet).java
 
 
 Output:
-[Click here to view output ](Cookie1Output.jpeg)
+[Click here to view output ](CookieManagementOutput.jpeg)
 
 
 
