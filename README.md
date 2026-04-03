@@ -350,11 +350,22 @@ Output:
 ## Program 9b: Session Management
 
 
-Code: Servlet6(SessionManagement).java
+Code: SessionManagement.java
 
 
 Output:
 [Click here to view output ](SessionManagementOutput.png)
+
+
+## Program 9c: Session Expiry
+
+
+Code: SessionExpiry.java
+
+
+Output:
+[Click here to view output ](SessionExpiryOutput.png)
+
 
 
 
