@@ -206,6 +206,15 @@ Output:
 [Click here to view output ](WordCountOutput.png)
 
 
+## Program 4a: Swing Example
+
+
+Code: String Program1(SwingExampleDemo).java
+
+
+Output:
+[Click here to view output ](SwingExampleOutput.png)
+
 
 
 
