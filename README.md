@@ -120,7 +120,7 @@ Output:
 
 
 
-## Program 3b: String Exercise progams
+## Program 3b: String Exercise1 progams
 
 
 Code: String Program1(NullOrEmptyDemo).java
@@ -160,6 +160,18 @@ Code: String Program5(WhitespaceRemoveDemo).java
 
 Output:
 [Click here to view output ](WhiteSpaceRemoveOutput.png)
+
+
+
+## Program 3c: String Exercise2 progams
+
+
+Code: String Program6(CapitalizeDemo).java
+
+
+Output:
+[Click here to view output ](CapitalizeOutput.png)
+
 
 
 
