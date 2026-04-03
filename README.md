@@ -354,7 +354,7 @@ Code: SessionManagement.java
 
 
 Output:
-[Click here to view output ](SessionManagementOutput.png)
+[Click here to view output ](SessionManagementOutput.jpeg)
 
 
 ## Program 9c: Session Expiry
