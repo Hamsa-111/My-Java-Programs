@@ -209,7 +209,7 @@ Output:
 ## Program 4a: Swing Example
 
 
-Code: SwingExampleDemo.java
+Code: SwingExample.java
 
 
 Output:
@@ -220,7 +220,7 @@ Output:
 ## Program 4b: Button Example
 
 
-Code: ButtonExampleDemo.java
+Code: ButtonExample.java
 
 
 Output:
@@ -231,7 +231,7 @@ Output:
 ## Program 4c: Image Button Example
 
 
-Code: ImageButtonExampleDemo.java
+Code: ImageButtonExample.java
 
 
 Output:
@@ -242,11 +242,24 @@ Output:
 ## Program 5a: JList Example
 
 
-Code: JListExampleDemo.java
+Code: JListExample.java
 
 
 Output:
 [Click here to view output ](JlistExampleOutput.jpeg)
+
+
+
+## Program 5b: Tabbed pane Example
+
+
+Code: TabbedPaneExample.java
+
+
+Output:
+[Click here to view output ](TabbedPaneOutput.jpeg)
+
+
 
 
 
