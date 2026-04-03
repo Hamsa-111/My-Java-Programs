@@ -174,6 +174,15 @@ Output:
 
 
 
+Code: String Program7(TruncateDemo).java
+
+
+Output:
+[Click here to view output ](TruncateOutput.png)
+
+
+
+
 
 
 
