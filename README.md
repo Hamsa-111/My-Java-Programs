@@ -246,7 +246,7 @@ Code: JListExampleDemo.java
 
 
 Output:
-[Click here to view output ](JlistExampleOutput.png)
+[Click here to view output ](JlistExampleOutput.jpeg)
 
 
 
