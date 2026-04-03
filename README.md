@@ -271,6 +271,18 @@ Output:
 [Click here to view output ](CountryCapitalListOutput.jpeg)
 
 
+## Program 5d: Color Tabbed pane Example
+
+
+Code: ColorTabbedPaneExample.java
+
+
+Output:
+[Click here to view output ](ColorTabbedPaneOutput.png)
+
+
+
+
 
 
 
