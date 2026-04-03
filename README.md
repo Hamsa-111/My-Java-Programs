@@ -235,7 +235,7 @@ Code: ImageButtonExampleDemo.java
 
 
 Output:
-[Click here to view output ](ImageButtonExampleOutput.png)
+[Click here to view output ](ImageButtonOutput.png)
 
 
 
