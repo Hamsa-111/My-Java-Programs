@@ -1,4 +1,4 @@
-/*3a(i) Write a Java Program for Checking if a given string is null or contains only whitespace using user defined function isNullOrEmpty().*/
+/*3b(i) Write a Java Program for Checking if a given string is null or contains only whitespace using user defined function isNullOrEmpty().*/
 
 
 
