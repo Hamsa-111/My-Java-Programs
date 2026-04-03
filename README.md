@@ -364,7 +364,7 @@ Code: SessionExpiry.java
 
 
 Output:
-[Click here to view output ](SessionExpiryOutput.png)
+[Click here to view output ](SessionExpiryOutput.jpeg)
 
 
 
