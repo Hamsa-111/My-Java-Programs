@@ -411,7 +411,7 @@ Code:Mysql(select).java
 
 
 Output:
-[Click here to view output ](selectOutput.png)
+[Click here to view output ](selectoutput.png)
 
 
 
