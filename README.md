@@ -407,7 +407,7 @@ Output:
 ## Program 11a:Mysql Select Command
 
 
-Code:Mysql(select).java
+Code:Mysql1(select).java
 
 
 Output:
@@ -419,11 +419,23 @@ Output:
 ## Program 11b:Mysql Update Command
 
 
-Code:Mysql(update).java
+Code:Mysq2(update).java
 
 
 Output:
 [Click here to view output ](updateoutput.png)
+
+
+
+## Program 11c:Mysql inser Command
+
+
+Code:Mysql3(insert).java
+
+
+Output:
+[Click here to view output ](insertoutput.jpeg)
+
 
 
 
