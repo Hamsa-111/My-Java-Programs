@@ -416,6 +416,19 @@ Output:
 
 
 
+## Program 11b:Mysql Update Command
+
+
+Code:Mysql(update).java
+
+
+Output:
+[Click here to view output ](updateoutput.png)
+
+
+
+
+
 
 
 
