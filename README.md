@@ -461,6 +461,18 @@ Output:
 
 
 
+## Program 12b: Mysql Query
+
+
+Code:Mysql6(Query).java
+
+
+Output:
+[Click here to view output ](queryoutput.png)
+
+
+
+
 
 
 
