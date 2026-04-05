@@ -427,7 +427,7 @@ Output:
 
 
 
-## Program 11c:Mysql inser Command
+## Program 11c:Mysql insert Command
 
 
 Code:Mysql3(insert).java
@@ -437,6 +437,15 @@ Output:
 [Click here to view output ](insertoutput.jpeg)
 
 
+
+## Program 11d:Mysql Update Command  through JSP
+
+
+Code:Mysql4(update).java
+
+
+Output:
+[Click here to view output ](updateoutput.jpeg)
 
 
 
