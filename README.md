@@ -450,6 +450,19 @@ Output:
 
 
 
+## Program 12a: Mysql Delete Command  
+
+
+Code:Mysql5(delete).java
+
+
+Output:
+[Click here to view output ](deleteoutput.jpeg)
+
+
+
+
+
 
 
 
