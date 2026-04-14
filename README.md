@@ -483,7 +483,7 @@ Code:Mysql6(Query).java
 
 
 Output:
-[Click here to view output ](retriveDutput.png)
+[Click here to view output ](retriveDOutput.png)
 
 
 
