@@ -419,7 +419,7 @@ Output:
 
 
 
-## Program 11a:Mysql Select Command
+## Program 11a: MySql Insert
 
 
 Code:Mysql1(select).java
@@ -431,7 +431,7 @@ Output:
 
 
 
-## Program 11b:Mysql Update Command
+## Program 11b:Mysql Update 
 
 
 Code:Mysq2(update).java
@@ -442,7 +442,7 @@ Output:
 
 
 
-## Program 11c:Mysql insert Command
+## Program 11c:Mysql insert (JSP)
 
 
 Code:Mysql3(insert).java
@@ -453,7 +453,7 @@ Output:
 
 
 
-## Program 11d:Mysql Update Command  through JSP
+## Program 11d:Mysql Update (JSP)
 
 
 Code:Mysql4(update).java
@@ -465,7 +465,7 @@ Output:
 
 
 
-## Program 12a: Mysql Delete Command  
+## Program 12a: Mysql Delete 
 
 
 Code:Mysql5(delete).java
@@ -476,7 +476,7 @@ Output:
 
 
 
-## Program 12b: Mysql Query
+## Program 12b: Retrive of the report of Employee whose name starts with letter D
 
 
 Code:Mysql6(Query).java
@@ -488,7 +488,7 @@ Output:
 
 
 
-## Program 12c: Retrive of the report of Employee whose name starts with letter R
+## Program 12c: Retrive of the report of Employee whose name starts with letter R(JSP)
 
 
 Code:Mysql7(retrive).java
