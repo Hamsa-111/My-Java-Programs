@@ -501,6 +501,21 @@ Output:
 
 
 
+## Program 12d: delete  the report of Employee whose name starts with letter S
+
+
+Code:Mysql8(delete).java
+
+
+Output:
+[Click here to view output ](deleteSOutput.jpeg)
+
+
+
+
+
+
+
 
 
 
