@@ -476,7 +476,7 @@ Output:
 
 
 
-## Program 12b: Retrive of the report of Employee whose name starts with letter D
+## Program 12b: Retrive of the coffee name starts with letter D
 
 
 Code:Mysql6(Query).java
