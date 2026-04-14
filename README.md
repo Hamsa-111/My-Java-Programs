@@ -476,14 +476,14 @@ Output:
 
 
 
-## Program 12b: Retrive of the coffee name starts with letter F
+## Program 12b: Retrive of the coffee name starts with letter D
 
 
 Code:Mysql6(Query).java
 
 
 Output:
-[Click here to view output ](queryoutput.png)
+[Click here to view output ](retriveDutput.png)
 
 
 
