@@ -488,6 +488,16 @@ Output:
 
 
 
+## Program 12c: Retrive of the report of Employee whose name starts with letter R
+
+
+Code:Mysql7(retrive).java
+
+
+Output:
+[Click here to view output ](retriveOutput.jpeg)
+
+
 
 
 
